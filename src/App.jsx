@@ -1,10 +1,10 @@
-import CharactersView from "./views/CharactersView/CharactersView";
+import Card from "./components/Card/Card";
 import "./App.css";
 
 function App() {
   return (
     <>
-      <CharactersView />
+      <Card />
     </>
   );
 }
