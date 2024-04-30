@@ -7,7 +7,9 @@ function App() {
       <Card />
 
       <h2>Link al repo:</h2>
-      <a href="https://github.com/ramiro-fiscella/magic-tailwind-card"></a>
+      <a href="https://github.com/ramiro-fiscella/magic-tailwind-card">
+        Repositorio
+      </a>
 
       <p>Ramiro K. Fiscella</p>
     </>
