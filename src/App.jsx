@@ -6,15 +6,15 @@ function App() {
     <>
       <Card />
 
-      <p>Link al repo:</p>
+      <p className="mt-4 text-sm">Link al repo:</p>
       <a
         href="https://github.com/ramiro-fiscella/magic-tailwind-card"
-        className="text-stone-500"
+        className="text-stone-500 text-sm"
       >
         Repositorio
       </a>
 
-      <p>Ramiro K. Fiscella</p>
+      <p className="text-md">Ramiro K. Fiscella</p>
     </>
   );
 }
