@@ -38,7 +38,7 @@ const Card = () => {
         {/* INFO */}
         <div className="mx-1 h-36">
           <div
-            className="w-full h-[80px] min-h-[80px] p-2 outline outline-1 outline-neutral-500 rounded-b bg-gradient-to-b from-neutral-200 to-stone-100  text-[9px] text-pretty leading-tight text-neutral-900 overflow-wrap shadow-md shadow-stone-950 "
+            className="w-full h-[80px] min-h-[80px] p-2 outline outline-1 outline-neutral-500 rounded-b bg-gradient-to-b from-neutral-200 to-stone-100  text-[9px] text-left leading-tight text-neutral-900 overflow-wrap shadow-md shadow-stone-950 "
             aria-label="Character's quote"
           >
             <p className="pb-1">
