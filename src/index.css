@@ -17,7 +17,7 @@
 }
 
 :root {
-  --color-primario: #df180a;
+  --color-primario: var(--tw-text-opacity);
   --color-secundario: #ccc;
   --color-terciario: #aaa;
   --color-fondo: #423c39;
