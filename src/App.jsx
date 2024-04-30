@@ -7,7 +7,7 @@ function App() {
       <Card />
 
       <a
-        className="mt-4 text-xs text-center text-orange-400"
+        className=" mt-2 text-xs text-center text-orange-400"
         href="https://github.com/ramiro-fiscella/magic-tailwind-card"
       >
         Link al repositorio.
