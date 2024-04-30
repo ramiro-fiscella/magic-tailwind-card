@@ -6,14 +6,16 @@ function App() {
     <>
       <Card />
 
-      <a
-        className=" mt-2 text-xs text-center text-orange-400"
-        href="https://github.com/ramiro-fiscella/magic-tailwind-card"
-      >
-        Link al repositorio.
-      </a>
+      <div className="mt-2 flex items-center justify-center gap-1">
+        <a
+          className="text-xs text-orange-400"
+          href="https://github.com/ramiro-fiscella/magic-tailwind-card"
+        >
+          Link al repositorio.
+        </a>
 
-      <p className="text-xs text-center">- Ramiro K. Fiscella</p>
+        <p className="text-xs">- Ramiro K. Fiscella</p>
+      </div>
     </>
   );
 }
