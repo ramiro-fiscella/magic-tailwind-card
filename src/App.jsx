@@ -6,8 +6,11 @@ function App() {
     <>
       <Card />
 
-      <h2>Link al repo:</h2>
-      <a href="https://github.com/ramiro-fiscella/magic-tailwind-card">
+      <p>Link al repo:</p>
+      <a
+        href="https://github.com/ramiro-fiscella/magic-tailwind-card"
+        className="text-stone-500"
+      >
         Repositorio
       </a>
 
